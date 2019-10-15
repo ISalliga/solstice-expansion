@@ -1,0 +1,15 @@
+Welcome to the Solstice Expansion! In creating this mod, I aim to expand on existing concepts within Terraria and make them more interesting! There is also a small bit of new earlygame content mixed in - I'm going to be adding more content soon!
+
+Current mechanics:
+
+- True melee weapons now have the ability to guard using right-click, blocking projectiles and stunning enemies
+- Shortswords now stab in whatever direction your cursor is in, alongside penetrating enemy armor
+- Critical hits now inflict new debuffs, which vary depending on what class you're using. Melee crits decrease enemy defense, ranged crits decrease enemy movement speed, and magic crits increase your magic damage
+- Projectile-based melee weapons now cost mana to fire, but not to swing
+- Spears now work as a dashing weapon, where you lunge forward and hitting an enemy knocks you back
+- Certain areas and times now have color filters
+- Bows now charge as you hold them, building up more damage on the next shot
+
+Current content:
+
+- Pyrostone, a beginner's set of gear themed around heated rock.

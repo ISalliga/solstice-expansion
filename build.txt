@@ -1,0 +1,3 @@
+displayName = Solstice Expansion
+author = Turquoise
+version = 0.6
